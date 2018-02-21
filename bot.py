@@ -15,7 +15,7 @@ import python3pickledb as pickledb
 # Configuration
 BOTNAME = 'Welcome_Airdrops_bot'
 TOKEN = '483027669:AAHOhguMhKCeAdo4hhPqtqEPVZk5EitGltk'
-BOTAN_TOKEN = '483027669:AAHOhguMhKCeAdo4hhPqtqEPVZk5EitGltk'
+BOTAN_TOKEN = 'BOTANTOKEN'
 
 help_text = 'Welcomes everyone that enters a group chat that this bot is a ' \
             'part of. By default, only the person who invited the bot into ' \
