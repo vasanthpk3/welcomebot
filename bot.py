@@ -13,7 +13,7 @@ from telegram.contrib.botan import Botan
 import python3pickledb as pickledb
 
 # Configuration
-BOTNAME = 'Welcome_Airdrops_bot'
+BOTNAME = 'usernameofbot'
 TOKEN = '483027669:AAHOhguMhKCeAdo4hhPqtqEPVZk5EitGltk'
 BOTAN_TOKEN = 'BOTANTOKEN'
 
